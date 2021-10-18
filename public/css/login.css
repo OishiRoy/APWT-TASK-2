@@ -1,0 +1,8 @@
+.login-form{
+    padding:20px;
+    border-radius: 10px;
+    /* box-shadow: 5px 5px 10px gray; */
+    box-shadow: 60px -16px teal;
+    background-color: #A9E4D7;
+    width: 250px;
+}
